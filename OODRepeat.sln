@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODRepeat", "OODRepeat\OODRepeat.csproj", "{D333FFB3-4171-4B5C-B560-65C26215B961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D333FFB3-4171-4B5C-B560-65C26215B961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D333FFB3-4171-4B5C-B560-65C26215B961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D333FFB3-4171-4B5C-B560-65C26215B961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D333FFB3-4171-4B5C-B560-65C26215B961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59342888-4632-43B1-AD92-22A4B9FC7CFB}
+	EndGlobalSection
+EndGlobal
